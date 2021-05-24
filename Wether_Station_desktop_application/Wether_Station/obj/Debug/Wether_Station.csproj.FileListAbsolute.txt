@@ -1,0 +1,10 @@
+C:\Users\Mateusz Tarka\source\repos\Wether_Station\Wether_Station\obj\Debug\Wether_Station.csprojAssemblyReference.cache
+C:\Users\Mateusz Tarka\source\repos\Wether_Station\Wether_Station\obj\Debug\Wether_Station.Form1.resources
+C:\Users\Mateusz Tarka\source\repos\Wether_Station\Wether_Station\obj\Debug\Wether_Station.Properties.Resources.resources
+C:\Users\Mateusz Tarka\source\repos\Wether_Station\Wether_Station\obj\Debug\Wether_Station.csproj.GenerateResource.cache
+C:\Users\Mateusz Tarka\source\repos\Wether_Station\Wether_Station\obj\Debug\Wether_Station.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz Tarka\source\repos\Wether_Station\Wether_Station\bin\Debug\Wether_Station.exe.config
+C:\Users\Mateusz Tarka\source\repos\Wether_Station\Wether_Station\bin\Debug\Wether_Station.exe
+C:\Users\Mateusz Tarka\source\repos\Wether_Station\Wether_Station\bin\Debug\Wether_Station.pdb
+C:\Users\Mateusz Tarka\source\repos\Wether_Station\Wether_Station\obj\Debug\Wether_Station.exe
+C:\Users\Mateusz Tarka\source\repos\Wether_Station\Wether_Station\obj\Debug\Wether_Station.pdb
